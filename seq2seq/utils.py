@@ -13,7 +13,7 @@ from torch.serialization import default_restore_location
 def load_embedding(embed_path, dictionary):
     """Parse an embedding text file into an torch.nn.Embedding layer."""
     embed_dict, embed_dim = {}, None
-    with open(embed_path) as file:
+    with open(embed_path, encoding="utf-8") as file:
         embed_dim = int(next(file).rstrip().split(" ")[1])
         for line in file:
             tokens = line.rstrip().split(" ")

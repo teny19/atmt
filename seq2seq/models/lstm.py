@@ -111,7 +111,7 @@ class LSTMEncoder(Seq2SeqEncoder):
         # Embed tokens and apply dropout
         batch_size, src_time_steps = src_tokens.size()
         src_embeddings = self.embedding(src_tokens)
-        _src_embeddings = F.dropout(src_embeddings, p=self.dropout_in, training=self.training)
+        _src_embeddings = F.dropout(src_embeddings, p=float(self.dropout_in), training=self.training)
 
         # Transpose batch: [batch_size, src_time_steps, num_features] -> [src_time_steps, batch_size, num_features]
         src_embeddings = _src_embeddings.transpose(0, 1)
@@ -124,7 +124,7 @@ class LSTMEncoder(Seq2SeqEncoder):
 
         # Unpack LSTM outputs and optionally apply dropout (dropout currently disabled)
         lstm_output, _ = nn.utils.rnn.pad_packed_sequence(packed_outputs, padding_value=0.)
-        lstm_output = F.dropout(lstm_output, p=self.dropout_out, training=self.training)
+        lstm_output = F.dropout(lstm_output, p=float(self.dropout_out), training=self.training)
         assert list(lstm_output.size()) == [src_time_steps, batch_size, self.output_dim]  # sanity check
 
         if self.bidirectional:
