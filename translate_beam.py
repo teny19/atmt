@@ -29,6 +29,8 @@ def get_args():
 
     # Add beam search arguments
     parser.add_argument('--beam-size', default=5, type=int, help='number of hypotheses expanded in beam search')
+    parser.add_argument('--best-n', default=1, type=int, help='number of best translations')
+    parser.add_argument('--gamma', default=None, type=float, help='parameter for diverse beam search')
 
     return parser.parse_args()
 
@@ -69,7 +71,8 @@ def main(args):
     progress_bar = tqdm(test_loader, desc='| Generation', leave=False)
 
     # Iterate over the test set
-    all_hyps = {}
+    # all_hyps = {}
+    all_hyps = []
     for i, sample in enumerate(progress_bar):
 
         # Create a beam search object or every input sentence in batch
@@ -161,6 +164,11 @@ def main(args):
                     node = nodes[i]
                     search = node.search
 
+                    # diverse beam search
+                    if args.gamma is not None:
+                        ranking = args.gamma * (j+1)
+                        log_p = log_p - ranking
+
                     # __QUESTION 4: Why do we treat nodes that generated the end-of-sentence token differently?
 
                     # Store the node as final if EOS is generated
@@ -183,7 +191,13 @@ def main(args):
                 search.prune()
 
         # Segment into sentences
-        best_sents = torch.stack([search.get_best()[1].sequence[1:] for search in searches])
+        best_sents = torch.stack([\
+                        node[1].sequence[1:]\
+                        for search in searches\
+                        for node in search.get_n_best(args.best_n)\
+                     ])
+
+        # best_sents = torch.stack([search.get_best()[1].sequence[1:] for search in searches])
         decoded_batch = best_sents.numpy()
 
         output_sentences = [decoded_batch[row, :] for row in range(decoded_batch.shape[0])]
@@ -201,15 +215,28 @@ def main(args):
         # Convert arrays of indices into strings of words
         output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
 
-        for ii, sent in enumerate(output_sentences):
-            all_hyps[int(sample['id'].data[ii])] = sent
+        for sent in output_sentences:
+            all_hyps.append(sent)
 
+        # for ii, sent in enumerate(output_sentences):
+        #     all_hyps[int(sample['id'].data[ii])] = sent
+
+
+    if args.output is not None:
+        filename = 'best_n_translations/multi_{}'.format(args.output)
+        if args.gamma is not None:
+            filename = 'best_n_translations/{}_diverse_multi_{}'.format(args.gamma, args.output)
+
+        with open(filename, 'w', encoding='utf-8') as out_file_n:
+            for sent in all_hyps:
+                out_file_n.write(sent)
+                out_file_n.write('\n')
 
     # Write to file
-    if args.output is not None:
-        with open(args.output, 'w') as out_file:
-            for sent_id in range(len(all_hyps.keys())):
-                out_file.write(all_hyps[sent_id] + '\n')
+    # if args.output is not None:
+    #     with open(args.output, 'w') as out_file:
+    #         for sent_id in range(len(all_hyps.keys())):
+    #             out_file.write(all_hyps[sent_id] + '\n')
 
 
 if __name__ == '__main__':
