@@ -1,33 +1,33 @@
 get away !
+do !
 get out !
-be careful .
-get out of you .
-get out of you !
 keep away !
+get away !
+keep away .
 you &apos;re important .
 you are important .
 you &apos;re not important .
-Tom was tired .
 Tom was tired
-Tom got tired .
+Tom was tired .
+Tom got tired
 was Tom mad ?
 was Tom angry ?
 was Tom sick ?
-are you talking to yourself ?
 are you doing this ?
+are you talking ?
 are you looking at ?
 give me that .
 give me this .
 give me this !
 let &apos;s start .
 let us start .
-let &apos;s know .
+leave us .
 Tom was hon@@ est .
-Tom was hon@@ ri@@ ous .
 Tom was hon@@ ently .
+Tom was trying .
 are you looking for us ?
-is you looking for us ?
 do you find us ?
+is you looking for us ?
 Bob helped me .
 Bob made me .
 Bob gave me .
@@ -36,7 +36,7 @@ we &apos;ve found a found .
 we have an found .
 you &apos;re shoes shoes .
 you &apos;re wrong .
-you &apos;re taking a shoes .
+you &apos;re shoes .
 you have Tom .
 you &apos;ve got Tom .
 you &apos;ve killed Tom .
@@ -48,7 +48,7 @@ I &apos;m speak English .
 I am English .
 Tom is from here .
 Tom is here from here .
-Tom &apos;s here from here .
+Tom is about here .
 it &apos;s dangerous .
 it &apos;s dangerous for dangerous .
 it &apos;s dangerous of here .
@@ -62,47 +62,47 @@ Tom must go now .
 Tom has to go now .
 Tom have to go now .
 what &apos;s pretty ?
-what &apos;s the person ?
 what &apos;s there ?
+what &apos;s the person ?
 leave Tom from Tom .
 let Tom go .
 let Tom go to Tom .
 no one can come .
 nobody can come .
-no one can be coming .
+nobody can be coming .
 can you understand Tom ?
 do you understand Tom ?
 may you understand Tom ?
 open the light !
 open the light .
-open the light on !
+open the light off
 Mary told me that .
 Mary told me .
 Mary asked me .
 can Tom swim well ?
 can Tom swim good ?
 may Tom swim well ?
-now it &apos;s good for it .
 now it &apos;s good .
-now it &apos;s good for you .
+now well .
+now it &apos;s good for it .
 you should be teacher .
 you should get a teacher .
 you should come teacher .
-everyone looks like him .
 everyone likes him .
 everyone made him .
+everyone looks like him .
 do you know the family ?
 do you know his family ?
 do you do the family ?
 he lived alone .
 he fell alone .
 he lived alone there .
-where bought she &apos;s books ?
-where bought her books ?
 where &apos;s she ?
+where bought her books ?
+where bought she &apos;s books ?
+ask her .
 ask her quiet .
 ask her homework .
-ask her .
 why do Tom have to go ?
 why does Tom have to go ?
 why don &apos;t Tom have to go ?
@@ -113,22 +113,22 @@ we like everyone .
 we love all .
 we like all .
 he gave up .
+he says he &apos;s sh@@ y
 he says he &apos;s sh@@ y .
-he &apos;s on the la@@ test .
 both girl wants to go to college .
 both girls want to go to college .
 both girl want to go to college .
 are you good piano ?
-are you good for a good piano ?
 does you play well ?
+are you still piano ?
+I want to go to Japan
 I want to go to Japan .
 I want to Japan after Japan .
-I want to go to Japan
 Tom wants to say something .
 Tom wants something to say .
 Tom wants to tell something .
-she &apos;s an@@ xi@@ ous .
 she is the same .
+she &apos;s an@@ xi@@ ous .
 she &apos;s the same .
 we &apos;re see today .
 we &apos;re watching tonight .
@@ -144,10 +144,10 @@ leave me help you .
 let me help me .
 re@@
 look at the exam .
-look at the sha@@ pe .
+look at the hotel .
 Tom has a mistake .
 Tom has a mistakes .
-Tom has made a mistake .
+Tom made a mistake .
 is it something stupid ?
 is there something stupid ?
 is it something important ?
@@ -155,11 +155,11 @@ I saw him already .
 I saw him before .
 I already saw him .
 how are that ?
-how do you like this ?
 how are this ?
+how is this ?
+I &apos;d better go to foot
 I &apos;d better go to foot .
 I &apos;d rather walk to walk .
-I &apos;d rather walk to foot .
 I like milk and bread .
 I love your bread .
 I love bread and bread .
@@ -167,11 +167,11 @@ it &apos;s only a dream .
 it &apos;s just a dream .
 it is only a dream .
 Tom asked too many questions .
-Tom asked for a lot of questions .
 Tom asked for many questions .
+Tom asked for a lot of questions .
 Tom was des@@ per@@ ate .
-Tom was in@@ des@@ per@@ ate .
 Tom was looking for .
+Tom was in@@ des@@ per@@ ate .
 did you see the accident ?
 have you seen the accident ?
 do you see the accident ?
@@ -183,7 +183,7 @@ I cannot help you .
 I don &apos;t help you .
 Tom has a sha@@ pe .
 Tom has a s@@ word .
-Tom has a to@@ wer of mine .
+Tom has a to@@ wer .
 I don &apos;t speak Japanese .
 I &apos;m not Japanese .
 I don &apos;t know Japanese .
@@ -197,26 +197,26 @@ why did you bought it ?
 why are you bought it ?
 why did you buy it ?
 do you miss your friends ?
+miss your friends ?
 do you have your friends ?
-do you want your friends ?
 I was in the library .
 I was at the library .
-I was in the eye .
+I was the library .
 we &apos;re very good friends .
 we &apos;re very well now .
 we &apos;re very well for friends .
-I &apos;m really busy .
 I &apos;m really busy
-I am really busy .
+I &apos;m really busy .
+I am really busy
 I should have done ready .
 I would have done ready .
 I should have finished ready .
 I like up now .
-I like to leave now .
 I like away .
+I like up .
+I every day .
 I day every day .
 I spent every day .
-I every day .
 hello , is someone there ?
 hello , that &apos;s someone ?
 hello , it &apos;s someone ?
@@ -228,13 +228,13 @@ you must be late .
 you must keep up .
 can you open the window ?
 can she open the window ?
-can you open the windo@@ ws ?
+can your open the window ?
 what was you going to do ?
 what are you going to do ?
 what were you going to do ?
 my watch is very exactly .
 my watch is very hot .
-my watch is very exc@@ ited .
+my watch is very often .
 why don &apos;t you like Tom ?
 why don &apos;t you do Tom ?
 why doesn &apos;t you do Tom ?
@@ -245,38 +245,38 @@ maybe Tom must help Mary .
 maybe Tom has to help Mary .
 maybe Tom have to help Mary .
 do you like me ?
-are you going to do me ?
 does you like me ?
+can you do me ?
 can I keep your hand ?
 may I keep your hand ?
 can I stop your hand ?
 Tom has no choice .
+Tom has no idea
 Tom has no idea .
-Tom doesn &apos;t have big fa@@ cts .
 I &apos;m French .
 I &apos;m fish .
-I &apos;m as if I am .
-it was un@@ per@@ ate .
+I &apos;m as if .
 it was un@@ willing .
 that was un@@ willing .
+it was un@@ per@@ ate .
 I had to go there alone .
 I had to go there by myself .
 I had to go there by alone .
 nobody wants to play with Mary .
 no one wants to play with Mary .
-nobody wants to play tennis with Mary .
+nobody wants to play by Mary .
 I want to stay today .
 I want to be here today .
 I want to be early today .
 Tom isn &apos;t here anymore .
 Tom doesn &apos;t live here anymore .
-Tom didn &apos;t live here anymore .
+Tom is not here anymore .
 do you really do Tom ?
 did you really do Tom ?
 did you really say Tom ?
 Tom is .
 Tom is sho@@ wing .
-Tom is th@@ ri@@ ous .
+Tom is a .
 may I do that ?
 can I do that ?
 can I do it ?
@@ -285,7 +285,7 @@ I don &apos;t like that song .
 I &apos;m not like this song .
 that &apos;s a secret .
 that &apos;s just a secret .
-that &apos;s really a secret .
+this is a secret .
 Tom put on the water .
 Tom jumped at the water .
 Tom jumped on the water .
@@ -298,84 +298,84 @@ have we really have really eat ?
 it doesn &apos;t easy it .
 it won &apos;t easy .
 that &apos;s not easy to not .
-you &apos;re not too worried about a lot .
-you &apos;re not too worried about you .
+you &apos;re not too worried .
+you can talk to you .
 you &apos;re not too many worried .
 what a beautiful man !
-what a beautiful man .
 what a man !
-is it here in the place ?
+what a beautiful man .
 is it here in here ?
+is it here in the place ?
 is it here in the here ?
 listen to the horse .
+take a horse .
 put it on the horse .
-stop the horse on the horse .
 don &apos;t you understand that ?
-aren &apos;t you going to do that ?
+do you understand that ?
 don &apos;t you do that ?
 B@@ ell are you !
 B@@ al@@ s are you !
-B@@ ell are you from !
+B@@ ell are you .
 he looks like your brother .
 he looks as your brother .
 he looks like your brother is .
 I still still have your key .
 I still still do your key .
-I still still have your ke@@ ys .
-Tom is new an@@ ci@@ ous .
+I always do your key .
 Tom is new ri@@ ous .
+Tom is new an@@ ci@@ ous .
 Tom is new an@@ ri@@ ous .
 Tom was the whole day .
 Tom was the all day .
 Tom was in the whole day .
 my dog hurt the grass .
-my dog is taking the grass .
-my dog used to the grass .
+my dog is old .
+my dog used to grass .
+Tom didn &apos;t talk .
 Tom didn &apos;t understand anything .
 Tom didn &apos;t go to college .
-Tom didn &apos;t talk .
-tell me how you &apos;re name .
 tell me how you are .
 tell me how you were .
+tell me how you is .
 she &apos;s not true .
 she &apos;s not able .
 she &apos;s not an a@@ gre@@ er .
 that asked me .
-that made me made me .
 that made me .
+that made me made me .
 you &apos;re a fool .
 you &apos;re a li@@ er .
 you &apos;re a bad boy .
 I &apos;ll see it to me .
 I &apos;ll see it .
-I &apos;ll see it at me .
+I &apos;ll see you .
 Tom loved something .
 Tom slept to something .
-Tom didn &apos;t eat anything in something .
-it &apos;s all the way .
+Tom seemed to be something .
 it &apos;s aw@@ ful .
+it &apos;s all the way .
 it &apos;s not for the way .
 give me a chance again .
-give me a chance for a chance .
 give me a chance , please .
+give me a chance to help .
 Tom called Mary .
 Tom or@@ dered Mary .
 Tom was looking at Mary .
 don &apos;t open .
-come on , don &apos;t get up .
+don &apos;t get up .
 don &apos;t look at the change .
 Tom is smar@@ t .
 Tom is an im@@ pression .
-Tom is ac@@ ting ed .
+Tom is ac@@ ting .
 you can leave my dictionary .
 you can sell my dictionary .
 you can watch my dictionary .
-Tom said it &apos;s really possible .
 Tom said that .
-Tom told it that .
+Tom told it .
+Tom made it .
 I don &apos;t believe your telephone number .
 I don &apos;t believe your phone number
-I &apos;m not your telephone number .
+I &apos;m not your telephone number
 Tom showed Mary his garden .
 Tom comes Mary his garden .
 Tom ra@@ ced Mary his garden .
@@ -384,7 +384,7 @@ Tom has to get up with Mary .
 Tom must be able to see Mary .
 that &apos;s his first day .
 this is his first day .
-it &apos;s his first day .
+it &apos;s his sister .
 Tom ate with Mary .
 Tom looked with Mary .
 Tom fell with Mary .
@@ -393,7 +393,7 @@ they talk about her problems .
 they talked about her problems .
 he fell asleep and eggs .
 he slept on the same .
-he fell in love with a other .
+he slept on the so@@ fa .
 she has the boy .
 she has a boy .
 she has no boys .
@@ -413,8 +413,8 @@ Tom &apos;s health is hard .
 Tom &apos;s health is hard of hard .
 Tom &apos;s health is hard to hear .
 what house did you use ?
-what house did you go to the house ?
-what house did you go to ?
+what house are you in ?
+what house are you up ?
 where were you from an hour ?
 where were you on an hour ?
 where were you going to hour ?
@@ -425,20 +425,20 @@ Tom wasn &apos;t ugly .
 Tom wasn &apos;t ous .
 Tom wasn &apos;t cu@@ te .
 is you drinking to drink ?
-are you going to drink something ?
 are you going to work ?
+are you going to drink something ?
 you can &apos;t do that .
 we can &apos;t do that .
 that can &apos;t do that .
 do you think Tom is afraid ?
 do you think Tom does afraid ?
 do you think Tom &apos;s afraid ?
-is it not too small ?
 will you be small ?
+is it not too small ?
 will it be too small ?
 we &apos;ll have the city .
 we &apos;ll have the town .
-we &apos;ll have to have done the city .
+we &apos;ll have to have town .
 didn &apos;t you have a joke ?
 don &apos;t you have anything anymore ?
 don &apos;t you have a joke ?
@@ -455,8 +455,8 @@ do you want me to go ?
 do you want me to go to ?
 do you want me me to go ?
 let &apos;s meet to each other .
+let &apos;s start .
 let &apos;s meet with each other .
-let &apos;s start with each other .
 Tom called Mary her success .
 Tom asked Mary her success .
 Tom asked Mary about her success .
@@ -476,7 +476,7 @@ I understand you better than her .
 I understand you better than she .
 I see you better than her .
 Tom says with Mary .
-Tom r@@ us@@ hed Mary with Mary .
+Tom looked with Mary .
 Tom says himself with Mary .
 how will I come home ?
 how is I coming home ?
@@ -486,9 +486,9 @@ I understand with her .
 I understand you well with her .
 Tom is very rich , isn &apos;t he ?
 Tom is very rich , aren &apos;t Tom ?
-Tom is very rich , didn &apos;t he ?
-Tom doesn &apos;t seem to be able to be mad .
+Tom is very rich , can Tom ?
 Tom seems to be mad .
+Tom doesn &apos;t seem to be able to be mad .
 Tom doesn &apos;t seem to be ac@@ ted .
 I &apos;m so nice !
 I &apos;m so tall !
@@ -504,27 +504,27 @@ we &apos;ve been friends for years .
 we have been friends since years .
 he is busy at a students .
 he &apos;s in a students .
-he is busy at a ben@@ ch .
+he &apos;s in a ben@@ ch .
 we don &apos;t know it ?
 we didn &apos;t know it ?
 we don &apos;t do it ?
 do you have a good books for children ?
 do you have good for a good books ?
-do you have a good books for her ?
+do you have good for the books ?
 you &apos;re my best !
-don &apos;t you have my car .
+you &apos;re my best .
 will you be my best !
-they are in@@ comp@@ et@@ ent .
 they &apos;re un@@ lucky .
 they are im@@ patient .
+they are un@@ hurt .
 please keep my secret to you .
+please keep my secret .
 please keep my book for you .
-please keep my room for you .
 Mary has been car@@ ried away .
 Mary has been car@@ ried out .
 Mary has been car@@ ried up .
-I hope you learn to each other .
 I hope you &apos;re lying .
+I hope you learn to each other .
 I hope you learn to it .
 everything was only a joke .
 everything was just a joke .
@@ -538,9 +538,9 @@ is Tom a viol@@ er ?
 don &apos;t tell me again .
 don &apos;t tell me back .
 don &apos;t lie to me .
+he has had lunch .
 he has a ta@@ x .
 he has a ta@@ x as he .
-he has had lunch .
 do you remember the fire on ?
 are you talking to the fire ?
 do you remember the fire in ?
@@ -548,53 +548,53 @@ he &apos;s my half brother .
 he &apos;s my class@@ mate .
 he &apos;s my class@@ language .
 I listen to help you .
-I can hear you with her .
 I hear you with her .
+I can hear you with her .
 I thought he would my brother .
 I thought he were my brother .
 I thought he had my brother .
 is the t@@ ele@@ vi@@ sion ?
 is the t@@ win ?
-is the t@@ ele@@ vi@@ vi@@ sion ?
+is the t@@ win in ?
 he &apos;s very fun@@ ny .
 he &apos;s very o@@ d@@ d .
 he &apos;s an o@@ d@@ d writer .
 Tom has a newspaper .
-Tom has a c@@ r@@ ush on .
 Tom has a c@@ r@@ ush .
+Tom has a c@@ r@@ ush on .
 is it hard to learn French ?
 is there hard to learn French ?
 is it heavy to learn French ?
 Tom looked at his place .
-Tom spent his umbrella to his place .
 Tom looked at his seat .
+Tom spent his umbrella to his place .
 Tom is clear@@ ing up .
 Tom is going to Christmas up .
-Tom is going to live in Christmas .
+Tom is going to Christmas around .
 he will not get the exam .
 he won &apos;t pass the exam .
 he won &apos;t get the exam .
 I &apos;m not a chance .
 I &apos;m not a hea@@ da@@ che .
 I &apos;m not a sha@@ pe .
-why do the people like people ?
 why do people like people ?
+why do the people like people ?
 why does the people like people ?
 Tom won &apos;t know in danger .
 Tom is going to go to you .
 Tom is going to go to do that .
 he wouldn &apos;t believe the money .
 he wouldn &apos;t have a money .
-he would not have a money on the money .
-the ju@@ dge is un@@ true .
+he wouldn &apos;t have the money .
+it &apos;s un@@ true .
 the computer is un@@ true .
-the rum@@ or is un@@ true .
+the ju@@ dge is un@@ true .
 Tom looked to sleep .
 Tom looked up to sleep .
 Tom looked up by the time .
-Mary didn &apos;t want to talk to Tom .
 Mary didn &apos;t ha@@ tes Tom .
-Mary didn &apos;t ha@@ e Tom , Tom .
+Mary didn &apos;t want to talk to Tom .
+Mary didn &apos;t recogni@@ ze Tom .
 Tom told me that he was hungry .
 Tom told me that he &apos;s hungry .
 Tom told me that he is hungry
@@ -606,31 +606,31 @@ how do you want to have your po@@ p ?
 how do you want to go to your nose ?
 Tom was moved by Mary .
 Tom got from Mary from Mary .
-Tom was moved by Mary &apos;s birthday .
+Tom got from Mary by Mary .
 did you get my best ?
 did you see my best ?
 do you have my best ?
+Tom worked back .
 Tom took the trees back .
 Tom came the trees back .
-Tom ha@@ tes the trees back .
 he doesn &apos;t drink beer .
 he doesn &apos;t drink beer of the work .
-he doesn &apos;t drink beer of the ho@@ g .
-you were still in him ?
+he doesn &apos;t drink beer of the ho@@ g
 you remember him again ?
+you were still in him ?
 you &apos;re still in him ?
 Tom doesn &apos;t care about Mary .
 Tom doesn &apos;t care for Mary .
-Tom doesn &apos;t care of Mary .
+Tom is afraid of Mary .
 my sister slept for each other .
 my sister is on the test .
 my sister is playing on the test .
 we &apos;re dra@@ wing in you .
-we &apos;re dra@@ wn in you .
-we &apos;re con@@ stan@@ tly in you .
+we ate in you .
+we &apos;re dra@@ wn in you
 do you take often a often ?
 will you take a often ?
-do you like often take a shower ?
+do you take a often ?
 I think she &apos;s here .
 I think she comes from Germany .
 I think she &apos;s in Germany .
@@ -639,16 +639,16 @@ my camera is a sp@@ ir@@ on .
 my camera is a sp@@ ir@@ ly .
 how many languages can you speak well ?
 how many languages are you well to speak well ?
-how many languages are you well to speak ?
+how many languages do you speak well ?
 she talks the whole time by you .
 she knew the whole time by you .
-she talks the whole time about you .
+she talks for all of you .
 we have to speak to Tom again .
 we have to speak again with Tom .
 we have to speak up with Tom .
 Tom and Mary are angry in John .
-Tom and Mary are mad at John .
-Tom and Mary are angry at John .
+Tom and Mary are angry .
+Tom and Mary are mad at John
 I wanted to buy the hair .
 I wanted to have my hair .
 I wanted to ask my hair .
@@ -656,11 +656,11 @@ I was with my wife in French .
 I was my wife in French .
 I was my wife in Paris .
 always make you your money .
-don &apos;t spend your money with your money .
-will you spend your money on your money .
+don &apos;t see your money .
+don &apos;t spend your money .
 Tom s@@ old .
 Tom has th@@ rea@@ ming .
-Tom has got away on the t@@ ele@@ vi@@ sion .
+Tom has got away .
 there &apos;s no money in this room .
 there &apos;s no money in this meeting .
 there &apos;s no money in this accident .
@@ -672,37 +672,37 @@ he is about as old as you .
 he is about so old as you .
 Tom put him on him .
 Tom put him on the party .
-Tom put him on the t@@ ele@@ vi@@ sion .
-I know the city in the city .
+Tom put him on a party .
 I know the city every day .
+I know the city in the city .
 I know the city .
 it &apos;s Tom &apos;s house .
+it &apos;s Tom &apos;s de@@ vil .
 it &apos;s Tom &apos;s con@@ di@@ ct .
-it &apos;s Tom &apos;s con@@ di@@ l .
 I don &apos;t want my parents .
-I don &apos;t want to disap@@ point my parents .
-I don &apos;t want me to disap@@ point my parents .
-life is not a t@@ ele@@ vi@@ sion .
+I didn &apos;t want my parents .
+I never want my parents .
 life is not a stupid thing .
-life isn &apos;t a t@@ ele@@ vi@@ sion .
-would you like to sleep all night .
+life is not a long thing .
+life is not a good thing .
 would you like to sleep .
+would you like to sleep all night .
 would you like to sleep the whole weekend .
 I think you &apos;re wrong .
 I remember what you &apos;re wrong .
 I remember what you &apos;re doing .
 the man was give up the police .
-the man was brought up the police .
 the man was made the police .
+the man was brought up the police .
 mother is the teacher .
 love is the teacher .
-M@@ e@@ x is the teacher .
-the ra@@ dio is only in the ra@@ dio .
+mother is the cold .
 the ra@@ dio is only his m@@ our .
+the ra@@ dio is only his m@@ om
 the ra@@ dio is only his m@@ om .
-I &apos;ll call me than my own God .
 I wonder when God .
-I &apos;ll call me as soon as my own God
+I see me in my own God .
+I &apos;ll call me when God .
 take a t@@ ele@@ vi@@ sion .
 take a t@@ les .
 take a t@@ ors .
@@ -712,9 +712,9 @@ Tom broke the window over .
 we tried to see you .
 we want you to do it .
 we tried to make you it .
-Sami has th@@ rea@@ ming .
 Sami has c@@ ried .
-Sami has th@@ rea@@ y@@ te .
+Sami has th@@ rea@@ ming .
+Sami has th@@ rea@@ te .
 we &apos;re watching the hands .
 we &apos;re dra@@ wing the hands .
 we &apos;re having the hands .
@@ -728,40 +728,40 @@ where are you in this alone ?
 where are you in this box ?
 where are you in this afternoon ?
 it &apos;s only a little books .
-it &apos;s just like a little coffee left .
 it &apos;s just like his way left .
-I saw him with a other woman .
+it &apos;s just like a little coffee left .
 I saw him with a other woman
+I saw him with a other woman .
 I saw him with an hour .
 Tom knew what to do .
 Tom already knew what to do .
 Tom knew what Tom was doing .
-I never heard them something about them .
+I never heard it again .
 I never have something about them .
-I never heard about something about them .
+I never heard them something about them .
 Tom called her .
-Tom has she be@@ gun her .
+Tom ate her .
 Tom took her face .
-does that eat a car is this ?
-does that eat the car is this ?
-does that eat the computer is this ?
+does that eat hot ?
+does it eat his car ?
+does that eat a car ?
 the story doesn &apos;t make him at him .
 the story doesn &apos;t look at him .
-the story didn &apos;t make him at him .
+the story doesn &apos;t ask him .
 Tom looked out of the window .
-Tom saw the window on the window .
 Tom looked around the window .
-he found the truth for the truth .
+Tom saw the window on the window .
 they found the truth .
-the truth found the truth .
+he found the truth .
+he found the truth for the truth .
 did you change Tom up ?
 did you enjoy Tom up ?
 did you enjoy Tom ?
-that &apos;s a bad mood of thing .
-this is a bad mood of thing .
+this is a cold .
 that &apos;s a bad thing .
-I don &apos;t feel good for me .
+that &apos;s a bad mood of thing .
 I &apos;m not good at all .
+I don &apos;t feel good for me .
 I don &apos;t feel good to me .
 in love and light need water and light .
 in love and light needs water and light .
@@ -777,7 +777,7 @@ I think we can help each other .
 I think we can help him .
 give Tom how to do that ?
 put Tom how to do that ?
-would Tom mind how to do that ?
+give Tom how to do it ?
 he has no right to do that .
 he has no right to do this .
 he has no right to do it .
@@ -786,15 +786,15 @@ her li@@ sh idea , please .
 her can@@ cer is happy , please
 Tom promised Mary promised John to help
 Tom promised Mary to help John .
-Tom promised Mary to help it .
+Tom promised Mary to help .
 he lost his life in a accident .
 he has his life in a accident .
 he has lost life in a accident .
 I hope you come back soon .
 I hope you get back soon .
 I hope you get well soon .
-Mary has no one who they hi@@ ll .
 Mary has no didn who she went .
+Mary has no one who they hi@@ ll .
 Mary has no one who they were on .
 she fell asleep in the grass .
 she fell asleep on the grass .
@@ -802,42 +802,42 @@ she fell in the grass .
 well we see us for five .
 well we see us to five .
 well we meet us about five .
-you &apos;re a beautiful flo@@ wer .
 you &apos;re a beautiful person .
 you &apos;re a beautiful officer .
+you &apos;re a beautiful restaurant .
 Mr. Brown are French in French .
 Mr Smith is called us French .
 Mr. Brown are French at French .
-I &apos;d like to take a t@@ ele@@ vi@@ sion .
 I &apos;d like to take a tra@@ p .
 I &apos;d like to take a sal@@ ad .
+I &apos;d like to take a t@@ ele@@ vi@@ sion .
 it was only a t@@ ele@@ vi@@ sion .
 it was only a t@@ ent .
 it was only a ni@@ al tree .
 I &apos;m an officer .
 I &apos;m a place .
-I &apos;m a or@@ anges of you .
+I &apos;m a key .
 Tom is smar@@ t , isn &apos;t he ?
 Tom is smar@@ t , don &apos;t he ?
 Tom is smar@@ t , isn &apos;t true ?
 do you have questions for this shop ?
 do you have questions for this paper ?
-do you have questions for this kind of this job ?
+do you have questions for this kind of it ?
 this sta@@ tue is alive .
 this sta@@ dium is alive .
 this sta@@ te@@ ment is alive .
+a I can &apos;t wait .
 a I can &apos;t wait for me .
 a I can &apos;t wait for you .
-a I can &apos;t wait .
 Tom is out with me .
 Tom is out of me .
 Tom is out of mine .
 he didn &apos;t have long more for them .
+he didn &apos;t have long longer .
 he didn &apos;t have long more much .
-he didn &apos;t have a long time for them .
-the company was brought up with him .
 the company was killed with you .
 the company was killed with him .
+the company was brought up with him .
 keep your friend for your girlfriend .
 take your friend for your girlfriend .
 keep your friend for your friend .
@@ -846,7 +846,7 @@ the computer was ar@@ med about him .
 the computer was made up for me .
 what did Tom and Mary only do that ?
 what did Tom and Mary only only do that ?
-what did Tom and Mary just only do that ?
+what did Tom and Mary only only wears ?
 he went out a big things .
 he went out a big thing .
 he went out a big im@@ pression .
@@ -854,62 +854,62 @@ I want you to answer Tom .
 I want you to do Tom .
 I want you to sing Tom .
 I wish she stopped talking .
-I wish she stopped talking about .
 I wish they stopped talking .
-her can@@ cer has nothing to do anything .
+I wish she stopped talking about
 her can@@ cer has nothing to do .
-her can@@ cer has nothing to do with you .
+her can@@ cer has nothing to do anything .
+her can@@ cer is nothing to nothing .
 they called his dog .
+accept his dog .
 accept his dog on his dog .
-accept his dog on the dog .
 do you think I wouldn &apos;t come ?
 do you remember I wouldn &apos;t come ?
 do you remember I &apos;d not come ?
 is here in the party ?
 is here in the t@@ ele@@ vi@@ sion ?
 is here in the same place ?
-the sta@@ te@@ ment are car@@ ried away .
 the sta@@ te@@ ment are car@@ ried .
+the sta@@ te@@ ment are car@@ ried away .
 the sta@@ te@@ ment are car@@ ried out .
 he took out of the bus .
-he took up by the bus .
 he took up by bus .
+he took up by the bus .
 I have a message .
 I have a message for business .
 I have a message @-@ mail .
 you can &apos;t get a thing to kill anything .
-you can &apos;t get a thing to me .
 you can &apos;t take care of that .
+you can &apos;t get a thing to me .
 we made up .
+we have respect .
 we have respect for anyone .
-we have car@@ ried out .
-I &apos;ll wait here until she get back .
 I &apos;ll wait here until she back .
-I &apos;ll wait here until she &apos;ll come back .
+I &apos;ll wait here until she get back .
+I &apos;ll wait here by she back .
+she has a room and he has fa@@ cts
 she has a room and he has fa@@ cts .
 she has a room and he has in@@ volved .
-she has a room and he has fa@@ cts
-he put up his way to the window .
 he put his way to the window .
-he put up his hands by the window .
+he put up his way to the window .
+he put up his watch .
 the w@@ ind has her hat the hat .
+the w@@ ind is on the hat .
 the w@@ ind is open of the hat .
-the w@@ ind has her hat to the hat .
 she left the cat on the cat .
 she left the cat out of the cat .
 he left the cat on the cat .
-I made the best of her time in Japan .
 I made the best time to Japan .
+I made the best of her time in Japan .
 I broke the best of her time in Japan .
+what a co@@ w you ?
 what kind of thing you do anything for you ?
 what a c@@ ras@@ you do you want to do ?
-what kind of days do you want to do to you ?
-B@@ ru@@ les is good for well .
-B@@ gu@@ il@@ ty are good for well .
+B@@ ru@@ les is good .
 B@@ ru@@ les is very well .
-your spee@@ ch are in@@ comp@@ et@@ ent .
+B@@ it@@ es are very well .
 your spee@@ ch are in@@ volved .
 your spee@@ ch are in@@ sult .
+your spee@@ ch are in@@ comp@@ et@@ ent .
 Tom asked me for his heart .
 Tom asked me to look after his heart .
 Tom asked me to look after his homework .
@@ -920,53 +920,53 @@ the picture in the picture is back .
 the picture were killed in a lot .
 the picture in the picture re@@ sul@@ ts back .
 Tom taught himself without shirt .
-Tom taught himself without per@@ mis@@ sion .
+Tom taught himself without your picture
 Tom taught himself without your picture .
-Tom is morning when he went up early .
+Tom has been car@@ ried today .
 Tom has been car@@ ried today morning .
-Tom has been car@@ ding this morning morning .
+Tom has been car@@ ding this morning .
+the patient isn &apos;t able .
 the patient is no longer on the patient .
 the patient has no longer on the patient .
-the patient doesn &apos;t have a ta@@ xi .
 the cat jumped on Tom .
 the cat jumped down on the sh@@ elf .
-the cat jumped over Tom on the sh@@ elf .
-we don &apos;t want to have a people in our city .
+the cat jumped over Tom on the sh@@ elf
 we don &apos;t want a people in our city .
+we don &apos;t want to have a people in our city .
 we don &apos;t want to be people in our city .
 when I have a diary in French .
 when I had a diary in French .
 when I were in French for a diary .
 this country is the next family .
-this country is the country of family .
 this country is the next man .
-the bed is car@@ ried away on the bed .
-the bed is car@@ ried to the bed .
+this country is on the country .
+take the bed .
 in the bed is taking the bed .
+the bed is car@@ ried away on the bed .
 see you how I get it .
 see you how I &apos;m sorry .
 see you how I am doing .
 Tom did as if he didn &apos;t speak me .
+Tom did as if he wasn &apos;t .
 Tom did as if he doesn &apos;t like me .
-Tom did as much as he can &apos;t do me .
 we had lunch in the meeting room .
 we have lunch in the meeting room .
-we had lunch at the meeting room .
+we slept in the meeting room .
 in this kind of these days .
 in this kind of the hi@@ ll .
 that &apos;s where I &apos;m doing that in this office .
 I have a film to see me .
-I &apos;ve been waiting for me to see a movie .
 I &apos;ve been waiting for a movie .
+I &apos;ve been waiting for me to see a movie .
 the squirrel is full of in@@ do@@ ors .
 the squirrel is full of great .
-the squirrel is full of in@@ comp@@ et@@ ent .
+the squirrel is full of c@@ r@@ ush .
 she said I &apos;d like to stop smoking
-she said I had to stop smoking .
 she said I had to stop smoking
+she said I had to stop smoking .
 Tom is in@@ comp@@ et@@ ent .
 Tom is going to take up .
-Tom is in@@ comp@@ et@@ ent to death .
+Tom is in@@ comp@@ ned .
 how many people are in a car ?
 how many people are in your car ?
 how many people are in your we@@ ap@@ ons ?
@@ -974,56 +974,56 @@ his room is twice as tall as my .
 his room is living as tall as my .
 his room is twice as tall as me .
 I didn &apos;t have to swim today .
-I didn &apos;t buy me to swim today .
+I &apos;m not to swim today .
 I &apos;m not going to swim today .
 what a man is in a party ?
 what &apos;s the same thing in what happened ?
-what &apos;s the same thing in what &apos;s wrong ?
+what &apos;s the same thing for a man ?
 Mary bought a new car for Christmas .
 Mary bought a new car at Christmas .
-Mary bought a new car for a new car .
+Mary bought a new car to Christmas .
 Tom asked his work with his work .
 Tom called his work with his work .
 Tom understand his work with his work .
 I &apos;m sure Tom is really loved Mary .
+I &apos;m afraid Tom loved Mary .
 I &apos;m afraid Tom is really loved Mary .
-I &apos;m pretty sure Tom is really loved Mary .
 Mary said that she was un@@ ved .
 Mary said that she was un@@ lucky .
 Mary said that she was un@@ consci@@ ous .
-do you think you &apos;re talking to me ?
 do you think of it to me ?
 do you think about it to me ?
+do you think you &apos;re talking to me ?
 I just talked to Tom for a few minutes ago .
-I just talked to Tom for a few minutes .
 I just talked to Tom .
+I just talked to Tom for a few minutes .
 he was difficult to find up .
 he was hard to find up .
 he was hard to find up all .
 they called the hi@@ ll .
-they are car@@ ried the hi@@ ll .
 she called the p@@ ool .
+they called the p@@ ool .
 we think that they were married .
 we think that they were careful .
-we think that they were careful about her .
-the sta@@ te@@ ment will be good at n@@ ine .
+we &apos;re reading that they were married .
 the sta@@ te@@ ment will be true .
+the sta@@ te@@ ment will be good .
 the sta@@ te@@ ment will be good at n@@ ine
-all of my daughter is important of my daughter .
+he likes my daughter .
 all of my daughter is a daughter .
 all of my daughter is my daughter .
 she has no word to me .
 she has no right to me .
-she doesn &apos;t go to the whole party to me .
-that &apos;s just going to be the t@@ ele@@ vi@@ sion .
-that &apos;s just going to be on the t@@ ele@@ vi@@ sion .
+she has no word to me for the night .
 that &apos;s just going to be the same thing .
-red al@@ ert has been car@@ ried away .
+that &apos;s just going to be the p@@ ool .
+that &apos;s just going to be the t@@ ele@@ vi@@ sion .
 red al@@ ert has been made me .
-red al@@ ert has been car@@ ried out .
+red al@@ ert has been car@@ ried away .
+red al@@ ert has made me .
 Mary told Tom that she thought John was to hear .
+Mary told Tom .
 Mary told Tom that she thought John was about .
-Mary told Tom that she thought John was about to hear .
 it is not very important , isn &apos;t he ?
 it &apos;s not very important , isn &apos;t he ?
 it &apos;s not very important , isn &apos;t it ?
@@ -1033,57 +1033,57 @@ there are little to make a little this kind of this shop .
 I know where Tom will be in three hours .
 I know where Tom is in three hours .
 I know where Tom will be in three now .
-I think a ru@@ le of me .
 I think a ru@@ le .
+I think a ru@@ le of me .
 I think a ru@@ le to me .
 she looks like an ac@@ tress .
 she looks like an in@@ sult .
 she looks about an ac@@ tress .
+all of our clothes are we .
 all of our clothes are we left .
 all of our clothes are we now .
-all of our clothes are we .
+don &apos;t call me so much .
 don &apos;t make me as soon as !
 don &apos;t give me so much as !
-don &apos;t call me so much .
 the to@@ st is 1@@ 2 : 30 .
 the to@@ st is 1@@ 4@@ 3 met@@ ers .
-the to@@ st is 1@@ 3 met@@ ers of four languages .
+the to@@ st is 1@@ 4@@ 3 met@@ ers in .
 you can &apos;t live in the city .
 you don &apos;t have to live in the city .
-you don &apos;t know the city in the city .
+you don &apos;t find it in the city .
 this ru@@ le is very beautiful .
 this ru@@ les is very beautiful .
 this bu@@ g is very beautiful .
 don &apos;t keep the p@@ ool .
-don &apos;t be able to change the p@@ ool .
 don &apos;t get the p@@ ool .
-I am surprised when I was watching TV .
-I &apos;m surprised to give me when I &apos;m looking for
+don &apos;t be able to change the wine .
 I am surprised when I was watching TV
+I am surprised when I was watching TV .
+I am surprised when I had me .
 the ra@@ ce is on the test .
 the ra@@ ce is on the au@@ pe .
 the ra@@ ce is in char@@ ge of the jo@@ king .
 I go to Boston in Boston .
 I go to Boston .
 I went to Boston in Boston .
+she has the ma@@ z@@ ing .
 she has the ma@@ z@@ ing @-@ mail .
 she has the ma@@ z@@ ing de@@ stro@@ yed .
-she has the ma@@ z@@ ing .
 Tom has the best of his father .
 Tom has been car@@ ding his father .
-Tom has lost the be@@ t his father .
+Tom has been car@@ ried his father .
 the boy who wants to play my little brother .
-the boy who has my brother , my brother brother .
-the boy who &apos;s the guitar is my brother .
+the boy who is my younger brother .
+the boy who says is my little brother .
 Tom asked Mary what to do .
-Tom asked Mary what she likes looking for .
+Tom asked Mary what they were doing
 Tom asked Mary what you like doing .
 I wonder what happened in Brazi@@ l .
 I wonder what &apos;s language in Brazi@@ l .
 I wonder what the language will be in Brazi@@ l .
 you &apos;re our family with him .
+you have our family with him .
 you &apos;re our family with a family .
-you have our family with a family .
 Tom said he didn &apos;t want to do that .
 Tom said he didn &apos;t do that .
 Tom said he didn &apos;t think that .
@@ -1097,8 +1097,8 @@ if I were you , I wouldn &apos;t do that .
 if I were you , I &apos;d do that .
 if I were you , I would do that .
 do you have a good friend of a good friend ?
-do you spend a good friend of a good friend ?
 have you ever heard of a good friend ?
+have you ever been in a good friend ?
 Tom told Mary that he said what John said .
 Tom told Mary that he said that John said .
 Tom told Mary he said what John said .
@@ -1106,131 +1106,131 @@ there &apos;s to go to your woman there .
 there &apos;s to go to your wife there .
 A@@ pp@@ ans , there are expensive to your woman .
 are you looking for me a swea@@ ter ?
-are you going to take me a swea@@ ter ?
 do you understand me a swea@@ ter ?
+do you like me a swea@@ ter ?
+I &apos;m not saying I am .
 I &apos;m not pretty , I &apos;m wrong .
 I &apos;m not pretty , I &apos;m looking for .
-I &apos;m not saying I am .
 this is the best book that I have ever read that .
 that &apos;s the best book that I have ever read that .
-that &apos;s the best book that I &apos;ve ever read that .
+this is the best book that I have ever read .
 you &apos;re angry !
 you &apos;re happy !
 you &apos;re sorry !
 Tom wants to get that again .
 Tom wants to see that &apos;s again .
-Tom wants to ask that that doesn &apos;t like doing that again .
-there &apos;s a party at the car gave up a car .
-there &apos;s a party at the car gave up at a car .
+Tom wants to see that again .
 there &apos;s a party at the car gave a car .
+there &apos;s a party at the car gave up a car .
+there &apos;s a party at the car gave up .
+the ra@@ dio was on of snow .
 the sta@@ te@@ ment was ar@@ med about us .
 the sta@@ te@@ ment was ar@@ med about snow .
-the sta@@ te@@ ment was h@@ on@@ ed from snow .
+if you go to go , I go to college .
 if you go to go , I go to college , too .
 if you leave tomorrow , I go to college , too .
-if you go to go , I go to college .
 please leave my mind , please .
 please leave my name , please .
 please leave my leg , please .
-you &apos;re everything to the world in the world .
 you &apos;re everything with me in the world .
+you &apos;re everything to the world in the world .
 you &apos;re everything that you were in the world .
 as a are one of the are one .
 as a are one of the are .
-as a are one of the are one of the station .
+so far the are one of the one .
 Tom gave him that he didn &apos;t read the book .
 Tom told me that he didn &apos;t read the book .
-Tom gave to read that he didn &apos;t read the book .
-don &apos;t do anything like he is going to do .
+Tom gave up that he didn &apos;t read the book .
 don &apos;t do anything like he does .
 how do you think he doesn &apos;t like anything .
+how do you think he doesn &apos;t speak anything .
 do you have a room with a room ?
 do you spend a room with a room ?
 do you know a room with a room ?
 we have a lot of rain in the world .
 we have a lot of rain in the sh@@ elf .
-we have a lot of rain in the w@@ oo@@ ds .
+we have a lot of rain in the w@@ ind .
 I &apos;ll take care of the truth , my mind .
 I &apos;ll take care of the truth , my things .
 I &apos;ll take care of the truth to give my mind .
+I &apos;m too t@@ ors .
 I &apos;m too tired to go to college .
-I &apos;m very tired now to go to college .
 I &apos;m very tired now to go .
-I told Tom that I didn &apos;t tell Mary to say that .
-I told Tom that I didn &apos;t tell Mary to say anything .
 I talked about Tom to say anything .
+I &apos;m talking about Tom , didn &apos;t tell Mary .
+I told Tom that I didn &apos;t tell Mary to say that .
+his co@@ w car turned from the party .
 his co@@ w car turned out from the party .
-his ex@@ plan@@ ation has been away by the party .
-his co@@ w car turned out from the hi@@ ll .
+his ex@@ plan@@ ation car went from the party .
 how do you want to know that wasn &apos;t again ?
-how do you want to know that doesn &apos;t make it ?
 how do you want to know that isn &apos;t again ?
+how do you want to know that doesn &apos;t make it ?
 Mary is very exc@@ it@@ ing .
 Mary is very exc@@ it@@ ing right .
 Mary is wearing a c@@ r@@ ush on the night .
 it &apos;s important for you to learn a foreign language .
 it is important for you to learn a foreign language .
-it &apos;s important for you to learn a language .
+it &apos;s important to learn a foreign language .
 he was here when I was the room .
+he was here when I knew the room .
 he was in the room when I was the room .
-he was in a room when I was the room .
 he knows how to live in the w@@ oo@@ ds .
 he knows how to live in the w@@ ool .
-he knows how to live in the w@@ oo@@ ts .
+he knows how to live in the w@@ ind .
 the si@@ sters is the most del@@ ici@@ ous .
 the si@@ sters is the most o@@ d@@ d .
 the is@@ land is the most o@@ d@@ d .
-she looks like his parents , but he is very nice to me .
 as soon as his parents , he is very nice to me .
+she looks like his parents , but he is very nice to me .
 as soon as his parents , he is very kind to me .
+she took on the bus room .
 she took in the ba@@ th@@ room room .
 she took on the bus room in a bad room .
-she took on the bus room .
 I have to get a ha@@ ir@@ called .
-I have to get a ha@@ ir@@ cut called a t@@ ele@@ vi@@ sion .
 there &apos;s to be up in a tra@@ p .
-too long for if you had no longer on her .
-too long for if you had no more than nobody .
+I have to get a ha@@ ir@@ cut called a t@@ ele@@ vi@@ sion .
 too long for if you had no longer on .
+too long for if you had no other .
+too long for if you had no longer on her .
+.
 man , the sentence has made up .
 man , the sentence has made up for the best .
-man , the sentence has made up for the job .
-Tom is going to be nice to be someone for anyone .
 Tom is looking for something to be found .
 Tom is going to be nice to be someone for anyone
+Tom is going to be nice to be someone for anyone .
 the tem@@ perat@@ ure is a real job .
-the tem@@ perat@@ ure is a ta@@ x @-@ work .
-the tem@@ perat@@ ure is a ta@@ x @-@ job .
-she made me a mistake to leave a mistake .
-she made me a mistake to go to the mistakes .
+the tem@@ perat@@ ure is a ta@@ x .
+the tem@@ perat@@ ure is a ta@@ x job .
+she married me for a mistake .
 she made me a mistake , a mistake .
+she made me a mistake to leave a mistake
 I &apos;ve been waiting for my coffee .
 I have my coffee on the coffee .
 I put my coffee on the coffee .
 you should try to live to your ac@@ tions .
 you should try to live your con@@ di@@ ts .
 you should try to live your con@@ di@@ tion .
-you &apos;re un@@ te@@ day with him .
 you &apos;re un@@ lucky .
 you &apos;re un@@ lucky to him .
+you &apos;re un@@ te@@ day with him .
 he knows how he is his shirt .
+he knows how he fell his shirt
 he knows how he fell his shirt .
-he knows how to play his shirt .
 Tom said he didn &apos;t have to go home .
-Tom said he didn &apos;t have a lot to go home
+Tom said he couldn &apos;t go home .
 Tom said he didn &apos;t drive to go home .
 I &apos;ll go out when I &apos;m done with work .
 I &apos;ll go outside when I &apos;m done with work .
 I &apos;ll go to college if I am ready for work .
 can you tell me where I am doing this camera ?
-can you tell me where I am doing this for this ?
-can you tell me where I &apos;m doing this for this ?
-Tom came as a who man on the man .
+can you tell me where I am doing that ?
+can you tell me where I &apos;m doing that ?
 Tom came as a who man .
-Tom came as the man who found to the man .
+Tom came as a who man on the man .
+Tom came as the man on the man .
 don &apos;t tell me that she didn &apos;t like each other .
 don &apos;t tell me that she doesn &apos;t like each other .
-don &apos;t tell me that they don &apos;t like each other .
+they told me that they don &apos;t like each other .
 everything you have to do out of the station .
 everything you have to do out of the be@@ t .
 everything you have to do out of the be@@ ate .
@@ -1242,58 +1242,58 @@ how long do you want to have done there ?
 how long do you want to have done there .
 don &apos;t tell me you can &apos;t get Tom Tom .
 don &apos;t tell me you can &apos;t get Tom &apos;s party .
-don &apos;t tell me that you don &apos;t get Tom &apos;s party .
+don &apos;t tell me that you can &apos;t get Tom Tom .
+my .
 my grandmother was already sick when I heard her .
 my grandmother was already sick when I visited her .
-my grandmother has been sick when I heard her .
 our m@@ om is gone .
 our m@@ om is there by two years ago .
 our m@@ om is there by two years old .
 she told me to take me before she got married .
 she told me that she was looking at the plane .
-she told me to take me before she was looking at the plane .
+she told me to take me before she was looking for .
 Mary is not going to be ill .
-Mary is not going to talk to you .
 Mary is not going to be sick .
+Mary is not sick in common .
 who thought he is coming ,
 who &apos;s that he is coming ,
-who was that he is coming , .
+who thought he is coming , .
 he has been in@@ volved with him to live .
 he has been car@@ ried out of an in@@ sult .
 he has been car@@ ried out of a la@@ w@@ yer .
-I wonder if it looks like a day .
 I wonder if it looks like it .
+I wonder if it looks like a day .
 I wonder if it looks like a sta@@ r .
-I told me you &apos;re watching us .
 I told me you &apos;re watching us
+I told me you &apos;re watching us .
 I &apos;ll call me you &apos;re watching us .
 no word , he has no mother of what you saw here !
 no time , he has no mother of what you saw here !
-no time , he has no mother of what you saw here .
+no word , he didn &apos;t know what he saw here !
 he took a ha@@ ir@@ cut on the t@@ ele@@ vi@@ sion .
 he took a ha@@ ir@@ cut in the in@@ sult .
 he took a ha@@ ir@@ t in the in@@ sult .
 Mary sat down in the bus room .
-Mary sat down in the ba@@ th@@ room and started to cry .
 Mary sat down in the ba@@ th@@ room .
+Mary lost the bus room in a room .
 does I want to be able to work when he &apos;s alone ?
 does I want to be able to work when he &apos;s old ?
 does I want to be able to work when he was alone ?
+T@@ es@@ o is a good wor@@ ker for something .
 T@@ es@@ o is a good wor@@ ker for something to eat .
-T@@ o is a good boy for something to eat for something .
-T@@ es@@ o is a good wor@@ ker for something to do .
-the is@@ ol@@ s should be su@@ ited at the sh@@ elf .
-the is@@ ol@@ s should be su@@ ited for the sh@@ elf .
+T@@ es@@ o is a good boy for something to eat .
 the is@@ ol@@ s should be sh@@ y in the eye .
-is there your fa@@ cts in Boston and will be going to Boston ?
+the is@@ ol@@ s should be su@@ ited at the sh@@ elf
+the is@@ ol@@ s should be su@@ ited at the sh@@ elf .
+is there your fa@@ cts in Boston .
 is there your fa@@ cts between you and ten to Boston ?
-is there your fa@@ cts between you and will be going to Boston ?
+is there your fa@@ cts in Boston and will go ?
 please do a language for a language .
 please write a language for a language .
 please keep a language for a language .
 Tom and Mary told John that they didn &apos;t like Alice .
+Tom and Mary told John that they were wrong .
 Tom and Mary told John that they didn &apos;t think Alice was .
-Tom and Mary told John that they didn &apos;t think Alice was !
 Tom lives in a super@@ market .
 Tom lives in a de@@ cent house .
 Tom lives in a super@@ market der .
@@ -1303,17 +1303,17 @@ Tom has decided to give up in this matter .
 I was the only one who made up .
 I was the only one who turned on .
 I didn &apos;t have the only one who was wrong .
+is there your language to get your language ?
 is there your language in your language in your language ?
-is there your language in your language , the language will be in your language ?
 are you going to use the language in your language ?
 Tom read what he would like to pay for the money .
-Tom read what he would like to pay after the money .
-Tom read what he would have enough money to pay the bill .
+Tom read what he &apos;d have enough money to hear .
+Tom read what he would have enough money to pay .
 Mary told Tom that she thought John was right .
 Mary told Tom that she thought John was to say that .
-Mary told Tom that she thought John was to speak John .
-it would better be better if you don &apos;t go to college .
+Mary told Tom that she thought John was to speak .
 it would better be better if you had nothing to do .
+it would better be better if you don &apos;t go to college .
 it would better be better if you had nothing to be here .
 if you drive your life , don &apos;t make me .
 if the life you con@@ cen@@ tra@@ ted you , too .
@@ -1327,11 +1327,11 @@ the lan@@ d@@ bo@@ l de@@ als of M@@ o@@ w is the same house .
 a lot of people came to ask for an ac@@ tress .
 a lot of people came to ask for an ex@@ plan@@ ation .
 a lot of people came to ask to ask the c@@ ras@@ h .
-do you want to tell me that you &apos;ve never had a t@@ ele@@ vi@@ sion ?
 do you want to tell me that you &apos;ve never had a p@@ ie ?
-do you want to tell me that you &apos;ve never had a lot of lu@@ ck ?
-the is@@ land is their best for the go@@ vern@@ ment of the go@@ vern@@ ment .
-the is@@ land is their best for the go@@ vern@@ ment to the ru@@ les .
+do you want to tell me that you &apos;ve never had a t@@ ele@@ vi@@ sion ?
+do you want to tell me that you &apos;ve never had a lot of time ?
+the is@@ land is their best to the ru@@ les .
+the is@@ land is their best for the fire .
 the is@@ land is their best for the go@@ vern@@ ment .
 I bought my umbrella to the station .
 I lost my umbrella to the station .
@@ -1342,114 +1342,114 @@ what if it took a girl in a girl at the party ?
 I &apos;ve been waiting for a secret .
 I have a secret to do that .
 I &apos;ve been waiting for a secret to do that .
-the ma@@ th is the grea@@ test test may be se@@ x@@ y .
 the ma@@ th is the grea@@ test test may be a child .
 the ma@@ th is the grea@@ test test &apos;s in the world .
+the ma@@ th is the grea@@ test test may be se@@ x@@ y .
 this is one of the world today .
 this is one of the o@@ cean today .
 this is one of the o@@ cean today in the w@@ oo@@ ds .
 I heard a few years ago .
-I heard a few years ago , don &apos;t take a few years ago .
 I heard a few years ago , too .
+I heard a few years ago , don &apos;t take a few years .
 m@@ os@@ quit@@ oes the trees of the B@@ et@@ rea@@ ming of the sta@@ dium .
-m@@ os@@ quit@@ oes of the B@@ et@@ ens of the B@@ et@@ ens of the sta@@ dium .
 m@@ os@@ quit@@ oes the trees of the B@@ et@@ rea@@ ming of the uni@@ ver@@ s .
+m@@ os@@ quit@@ oes of the B@@ et@@ ens of the B@@ et@@ ens of the sta@@ dium .
 it was so hot that I &apos;d like to see him .
 it was so hot that I &apos;d like to answer him .
 it was so hot that I would think I &apos;d like him .
 Tom and Mary told John that they didn &apos;t think Alice was jealous .
 Tom and Mary told John that they didn &apos;t think Alice was .
 Tom and Mary told John that they didn &apos;t think Alice was asleep .
-a man has been car@@ ried out of the la@@ test .
 a man has been car@@ ried out of the meeting .
-a man has been car@@ ried out of the se@@ a@@ tions .
+a man has been car@@ ried out of the la@@ test .
+a man has been car@@ ried to live to the meeting .
 Tom and Mary told John that they thought Alice was asleep .
 Tom and Mary told John that they thought Alice was wanted .
 Tom and Mary told John that they thought Alice was pla@@ yer .
 if you always know if you want me to be done in the way .
-if you always know if you want me to be in the way .
+if you always know if you want me to do that .
 if you always know if you want to go to the way .
 I can &apos;t re@@ ti@@ re , don &apos;t make mistakes .
-I can &apos;t re@@ ti@@ re , didn &apos;t make mistakes .
 I can &apos;t re@@ ti@@ re , didn &apos;t make mistakes
+I can &apos;t re@@ ti@@ re , didn &apos;t make mistakes .
 everyone has been trying to talk to her feelings about her feelings .
 everyone has been trying to talk to her feelings of her feelings .
 everyone has been trying to talk to her feelings on her feelings .
 you need not have to be able to see the cold of the money .
 you need not have to be able to see the cold in the park .
-you don &apos;t have to be a true person to see the movie of the money .
+you need not have to be able to see the money on the se@@ o .
 I &apos;ve been car@@ ried to the t@@ ele@@ vi@@ sion .
 I have been car@@ ried away with the f@@ ence .
 I &apos;ve been car@@ ried to the t@@ ele@@ vi@@ sion . I
 more than an hour , the train started talking to him .
 more than an hour , the train started reading the train .
 more than a sta@@ dium , the train started reading the train .
+she &apos;s only two years old , but he has been looking for .
 she &apos;s only two years old , but he has been looking for some years old .
 she &apos;s only two years old , but he has been looking for a long time .
-she &apos;s only two years old , but he has been looking for .
-you &apos;re in a super@@ market in a lo@@ b@@ our@@ ce , don &apos;t you ?
+you &apos;re in a super@@ market in an im@@ pression ?
+you &apos;re in a super@@ market in a lo@@ c@@ ess ?
 you &apos;re in a super@@ market in an im@@ pression , don &apos;t you ?
-you &apos;re in a super@@ market in a lo@@ c@@ ess , don &apos;t you ?
-Tom asked Mary for the accident in five years old , he was five years old .
 Tom asked Mary for the accident in the accident .
+Tom asked Mary for the accident in five years old .
 Tom asked Mary for the traffic accident in five years old .
 &quot; you can &apos;t put well , don &apos;t tell her ?
-&quot; you can &apos;t put well , you said , didn &apos;t you ?
 &quot; you can &apos;t put well , don &apos;t speak her ?
-there are si@@ x@@ ty now now to make a ha@@ ir@@ cut now .
+&quot; you can &apos;t put well , you didn &apos;t see ?
 there are si@@ x@@ ty now now to do about this morning .
-there are si@@ x@@ ty now now to do now of an hour .
+there are si@@ x@@ ty now now to do about this night .
+there are si@@ x@@ ty now now to do about this morning !
+if there are something I can do something for you ?
 if there are something I can do that for you to do with me .
-if there are something I can do something for you to do with me .
 if there are something I can do what I can do to you .
-if he doesn &apos;t see so much as if he &apos;d be a lot of time .
+if he doesn &apos;t see so much , he would like more time .
 if he doesn &apos;t see so much , he would like more much time .
-if he doesn &apos;t see so much , he would like more time than it &apos;s time .
+if he doesn &apos;t see so much as if he &apos;d be a lot of time .
+just in the whole room to get out of the milk .
 just in the whole world , the milk will get out of the milk .
-just at the ca@@ st@@ one , the milk will get out of the milk .
-just at the ca@@ st@@ le , the milk will get out of the milk .
+just in the whole world , the milk will get up the milk .
 if you have your books in school .
-if you have your books in the school in the school .
 if you have your books in the school in school .
+if you have your books in the school in the school .
 there are Japanese in Japan in Japan .
 there are Japanese in Japan of Japan .
 there are Japanese in Japan of Japan of the year .
 a good boy is one of one of the bread is always in the v@@ al@@ ert and &apos;s drink .
 a good boy is one of one of the bread is always in the v@@ al@@ ist and &apos;s drink .
-a good boy is one of one of the bread is always in the v@@ al@@ ist and the v@@ alle@@ y .
-he pi@@ cked up when the n@@ ur@@ se went to him when they were killed in the po@@ et .
+a good boy is one of one of the bread is always in the v@@ al@@ ist and &apos;s what .
+he pi@@ cked up when the n@@ ur@@ se on him .
 he pi@@ cked up when the n@@ ur@@ se went to him when they were looking at him .
-he pi@@ cked up when the n@@ ur@@ se went to him when they were killed in the des@@ ert .
+he pi@@ cked up when the n@@ ur@@ se went to him when they were killed in the po@@ et .
 the ?
-the teacher used to call Tom and he had a new job and he saw a new job .
+the teacher used to help Tom , and he saw a new job .
 the teacher used to call Tom and he had a new job and he saw a new job
 my a@@ unt is made up , I &apos;ve got a lot of we@@ dding .
-my to@@ e is made a lot of cold , I was a lot of we@@ dding .
+my a@@ unt is made up , I &apos;ve got a lot of si@@ cked .
 my a@@ unt is made up , I &apos;ve got a lot of si@@ x@@ ty .
-if you don &apos;t get along with the S@@ in@@ es , don &apos;t be able to change .
 if you don &apos;t get along with the S@@ in@@ es , don &apos;t make up .
+if you don &apos;t get along with the S@@ in@@ es , don &apos;t be able to change .
 if you don &apos;t get along with the S@@ in@@ es , don &apos;t be able to bla@@ ck .
 you tried to try to be better who would be better by the time .
 you tried to try to be better who would be better by the way .
-you tried to try to take someone who thought they &apos;d be better by the time .
+you tried to try to be better who would be better by the por@@ ch .
+what &apos;s the first of the door from the E@@ m@@ ist ?
 what &apos;s the first of the door from the first time in the world ?
 which of the door is the door where the first time in the world ?
-which of the door is the door where the first time on the party ?
 Tom looked up , but he didn &apos;t have the doctor .
 Tom looked up , but he didn &apos;t go to the f@@ ence .
 Tom looked up , but he didn &apos;t go to the l@@ t .
 the shower is too nice , but you can &apos;t do it .
 the shower is too nice , but you can &apos;t do anything .
 the shower is too nice , but you can &apos;t keep up .
-there &apos;s our teacher in the living room , it &apos;s a good friend of our friend .
-there &apos;s our teacher in the living room , it &apos;s a good friend of our girlfriend .
-there &apos;s our teacher in the living room , it &apos;s a good friend .
-I used to buy the bu@@ g a walk on the t@@ ele@@ vi@@ sion .
-I used to buy the bu@@ g a walk at the t@@ ele@@ vi@@ sion .
+there &apos;s our teacher in the living room .
+there &apos;s our teacher in love with our friend .
+there &apos;s our teacher in love with our girlfriend .
+I used to buy the rest of the year .
 I used to buy the bu@@ g a walk in the morning .
+I used to buy the bu@@ g a walk from the morning .
 &quot; Tom can ! &quot;
-&quot; Tom can . &quot;
 &quot; Tom can .
+&quot; Tom can . &quot;
 Mr. Brown , m@@ os@@ quit@@ oes , in one year is a little con@@ tra@@ te , and a t@@ win brother .
 Mr. Brown , m@@ os@@ quit@@ oes , in one year is a little con@@ tra@@ te , and a t@@ win brother and a
 Mr. Brown , m@@ os@@ quit@@ oes , in one year is a little con@@ tra@@ te , and one of your ty@@ pe .
@@ -1457,35 +1457,35 @@ I have a bad job for the sol@@ di@@ ers of the meeting .
 I have a bad job for the sol@@ di@@ ers of the sol@@ di@@ ers of the meeting .
 I have a bad boy for the sol@@ di@@ ers of the sol@@ di@@ ers of the meeting .
 the ru@@ les asked her to a c@@ r@@ ush to the other one .
+the ru@@ les asked her to a c@@ ras@@ h like to be an im@@ ga@@ te .
 the ru@@ les asked her to a c@@ ras@@ h like to be an im@@ pression on the time .
-the ru@@ les asked her to a c@@ ras@@ h like to be an im@@ pression on the weather .
 but it &apos;s a ty@@ pe and we met him .
 but it is a ty@@ pe and we met him .
 but it &apos;s a ty@@ pe and we met us .
-if it &apos;s a t@@ ele@@ vi@@ sion . &quot;
 if it &apos;s a t@@ ele@@ vi@@ sion .
-if it &apos;s a t@@ ele@@ vi@@ sion ? &quot;
-we can &apos;t make it without so far , and I can &apos;t come .
+if it &apos;s a t@@ ele@@ vi@@ sion . &quot;
+if it &apos;s a t@@ ele@@ vi@@ sion ?
 we can &apos;t ask it without a lot and I can &apos;t come .
 we have no idea without so far , and I can &apos;t come .
-in our , C@@ anada , but s@@ ki@@ ing , let &apos;s talk to each other .
-in our , C@@ anada , but s@@ ki@@ ing , let &apos;s get out of the con@@ cen@@ tra@@ te .
+we can &apos;t make it without so far , and I can &apos;t come .
 in our , C@@ anada , but s@@ ki@@ ing , let &apos;s talk to him .
+in our , C@@ anada , but s@@ ki@@ ing , let &apos;s talk to each other .
+in our , C@@ anada , but s@@ ki@@ ing , let &apos;s talk to each other for us .
 the two @-@ a@@ ds of the si@@ ght of the si@@ ght of the gen@@ ce .
 the two @-@ a@@ ds of the si@@ ght of the si@@ ght of the re@@ sul@@ tion and the sta@@ dium .
 the two @-@ a@@ ds of the si@@ ght of the si@@ ght of the re@@ sul@@ tion and the d@@ ol@@ s are in@@
 this is the same thing that we can &apos;t do anything .
 this is the same thing , we can &apos;t do anything .
 this is the same thing that we can &apos;t do the ice @-@ mail .
-that &apos;s the all of the eye of the sol@@ di@@ ers , if you &apos;ve been looking for his things in the morning .
+that &apos;s the all of the eye of the sol@@ di@@ ers , if you &apos;ve been looking for his things .
 that &apos;s the all of the eye of the sol@@ di@@ ers , if you have a c@@ ras@@ h on the time .
-that &apos;s the all of the eye of the sol@@ di@@ ers , if you &apos;ve been looking for his things in front of the
+that &apos;s the all of the eye of the sol@@ di@@ ers , if you &apos;ve been looking for his things in the morning .
 I &apos;d like to write him a man in a job .
 I &apos;d like to write him a man in a man .
 I &apos;d like to write him a man in a party .
 the fact is that it would be a word , you didn &apos;t want to be able to tell a word .
+the fact man that it doesn &apos;t want to be a word , you didn &apos;t want to say that .
 the fact is that it would be a word , you didn &apos;t want to be a lot of things to say that .
-the fact man that it doesn &apos;t want to be a word , you didn &apos;t want to be a lot of things to say
 the !
 the m@@ os@@ per@@ ate of the uni@@ ver@@ s is de@@ stro@@ yed in a t@@ ele@@ vi@@ sion .
 the m@@ os@@ per@@ ate of the uni@@ ver@@ s is de@@ stro@@ yed in a t@@ ele@@ vi@@ vi@@ sion .
